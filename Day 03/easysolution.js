@@ -1,4 +1,4 @@
-// This solution is not easy to understand but it's optimal solution
+// This solution is easy to understand but it's not optimal solution
 var expect = function(val) {
     return {
         toBe: function(something) {
